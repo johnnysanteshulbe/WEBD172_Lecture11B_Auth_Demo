@@ -76,6 +76,13 @@ JSON body:
   "password": "mesa123"
 }
 ```
+```json
+{
+  "name": "Alex Smith",
+  "email": "alex@example.com",
+  "password": "Password123"
+}
+```
 
 ## Login
 
@@ -91,6 +98,12 @@ JSON body:
 {
   "email": "student@example.com",
   "password": "mesa123"
+}
+```
+```json
+{
+  "email": "alex@example.com",
+  "password": "Password123"
 }
 ```
 
